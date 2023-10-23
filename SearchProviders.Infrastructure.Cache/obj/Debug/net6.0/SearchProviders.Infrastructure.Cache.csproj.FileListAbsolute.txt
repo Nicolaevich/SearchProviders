@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\bin\Debug\net6.0\SearchProviders.Infrastructure.Cache.deps.json
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\bin\Debug\net6.0\SearchProviders.Infrastructure.Cache.dll
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\bin\Debug\net6.0\SearchProviders.Infrastructure.Cache.pdb
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\obj\Debug\net6.0\SearchProviders.Infrastructure.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\obj\Debug\net6.0\SearchProviders.Infrastructure.Cache.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\obj\Debug\net6.0\SearchProviders.Infrastructure.Cache.AssemblyInfo.cs
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\obj\Debug\net6.0\SearchProviders.Infrastructure.Cache.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\obj\Debug\net6.0\SearchProviders.Infrastructure.Cache.dll
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\obj\Debug\net6.0\refint\SearchProviders.Infrastructure.Cache.dll
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\obj\Debug\net6.0\SearchProviders.Infrastructure.Cache.pdb
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Cache\obj\Debug\net6.0\ref\SearchProviders.Infrastructure.Cache.dll

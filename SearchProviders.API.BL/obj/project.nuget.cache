@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qW3lFT9ca2Bn+r4/4ps5qsDLXez59y7JydeEUgAOIfqUqfQpO4TK7jh36c/Ed0pX/61w/ZplLw/75HWEtDNzig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\source\\repos\\SearchProviders\\SearchProviders.API.BL\\SearchProviders.API.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

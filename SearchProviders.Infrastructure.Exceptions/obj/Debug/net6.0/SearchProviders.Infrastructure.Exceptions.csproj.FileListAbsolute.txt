@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\bin\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.deps.json
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\bin\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.dll
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\bin\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.pdb
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\obj\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\obj\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\obj\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.AssemblyInfo.cs
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\obj\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\obj\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.dll
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\obj\Debug\net6.0\refint\SearchProviders.Infrastructure.Exceptions.dll
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\obj\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.pdb
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Exceptions\obj\Debug\net6.0\ref\SearchProviders.Infrastructure.Exceptions.dll

@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\bin\Debug\net6.0\SearchProviders.Infrastructure.Http.deps.json
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\bin\Debug\net6.0\SearchProviders.Infrastructure.Http.dll
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\bin\Debug\net6.0\SearchProviders.Infrastructure.Http.pdb
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\bin\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.dll
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\bin\Debug\net6.0\SearchProviders.Infrastructure.Exceptions.pdb
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\obj\Debug\net6.0\SearchProviders.Infrastructure.Http.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\obj\Debug\net6.0\SearchProviders.Infrastructure.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\obj\Debug\net6.0\SearchProviders.Infrastructure.Http.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\obj\Debug\net6.0\SearchProviders.Infrastructure.Http.AssemblyInfo.cs
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\obj\Debug\net6.0\SearchProviders.Infrastructure.Http.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\obj\Debug\net6.0\SearchProviders.Infrastructure.Http.csproj.CopyComplete
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\obj\Debug\net6.0\SearchProviders.Infrastructure.Http.dll
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\obj\Debug\net6.0\refint\SearchProviders.Infrastructure.Http.dll
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\obj\Debug\net6.0\SearchProviders.Infrastructure.Http.pdb
+C:\Users\alexa\source\repos\SearchProviders\SearchProviders.Infrastructure.Http\obj\Debug\net6.0\ref\SearchProviders.Infrastructure.Http.dll

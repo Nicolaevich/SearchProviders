@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lKFMRoW0YZrDytvD5MHj8VXfAkIDYlWkolUDxxKXqlc=",
+  "Source": "SearchProviders.API",
+  "BasePath": "_content/SearchProviders.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
